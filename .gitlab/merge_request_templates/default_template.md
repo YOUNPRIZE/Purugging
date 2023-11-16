@@ -3,7 +3,8 @@
 - [x] Client
 - [ ] Server
 - [ ] Data
-- [ ] Etc
+- [ ] Infra
+- [ ] Embedded
 
 ## 개발 기능 목록
 
