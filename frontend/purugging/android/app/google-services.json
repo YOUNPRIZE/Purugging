@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "138281983284",
+    "project_id": "purugging-auth-45d15",
+    "storage_bucket": "purugging-auth-45d15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138281983284:android:fc55b2ec3486b30c95d961",
+        "android_client_info": {
+          "package_name": "com.example.purugging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138281983284-0js30hpmflgvbs7tm7oi4qrmohed2rbp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.purugging",
+            "certificate_hash": "03b3e313c393b09b3f1de8ec2b927123b005d722"
+          }
+        },
+        {
+          "client_id": "138281983284-u3cg7m44fannhb2eena6fqd4k11b4ulb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA12psZU0dpwSYYqDhtRfdUEgOvSPQXDJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138281983284-u3cg7m44fannhb2eena6fqd4k11b4ulb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "138281983284-4aeeoelkj7sarsh03kucokj93vvt5umb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.purugging.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
