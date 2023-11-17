@@ -159,4 +159,7 @@ replay_pid*
 .history
 .ionide
 
+### Custom ###
+/purugging/src/main/resources/
+
 # End of https://www.toptal.com/developers/gitignore/api/intellij,java,visualstudiocode
