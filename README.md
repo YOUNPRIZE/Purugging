@@ -41,7 +41,7 @@
 | 인정환 (팀장) | Embedded      | H/W 프레임 제작<br />H/W 시스템 설계<br />스텝 모터 드라이버 구현<br />재활용 쓰레기 분류 기능 구현(초음파 센서, 조도 센서, LED)<br />Main Logic 설계<br />MQTT Protocol을 활용한 서버 통신 |
 | 김한주        | Frontend(App) | Flutter를 활용한 모바일 어플리케이션 제작<br />Google Map 이동 경로 트래킹<br />QR Code와 MQTT를 통한 Server와 IoT 간 통신 구현<br />Figma를 활용한 와이어프레임, 목업 제작 |
 | 손세이        | Embedded      | H/W 설계 (3D Modeling, Laser Cutting 도면 설계)<br />ESP32 통신 시스템 구현<br />RPI 사용자 인증 시스템 구현(QR 인식, MQTT 통신) |
-| 조윤상        | Backend       | Notification Domain 담당<br />Jenkins를 활용한 CI/CD 구축<br />Docker 및 EC2를 활용한 서버 배포<br />Nginx를 활용한 Reverse Proxy 설정<br />Grapana & Prometheus를 활용한 모니터링 구축<br />ERD 설계 |
+| 조윤상        | Backend       | Notification Domain 담당<br />Jenkins를 활용한 CI/CD 구축<br />Docker 및 EC2를 활용한 서버 배포<br />Nginx를 활용한 Reverse Proxy 설정<br />Grafana & Prometheus를 활용한 모니터링 구축<br />ERD 설계 |
 | 채현종        | Backend       | 프로젝트 주제 기획 <br />Member Domain 담당 <br />초기 인프라 구축 <br />MongoDB를 활용한 경로 기능 구현 <br />OAuth를 활용한 소셜 로그인 구현 (Flutter & SpringBoot) <br />ERD 설계 <br />발표 |
 | 하정호        | Backend       | Skeleton code 작성(Example domain 및 common)<br />Plogging Domain 담당<br />Machine Domain 담당<br />Campaing Domain 담당<br />IoT-Server-App MQTT 통신 구현 (Broker: Mosquitto)<br />ERD 설계 |
 
